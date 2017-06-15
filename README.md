@@ -1,0 +1,2 @@
+# deepdive-keno
+keno lotto
